@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-src/reportWebVitals.js
-src/reportWebVitals.js
+src/reportWebVitals
+src/reportWebVitals
